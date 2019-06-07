@@ -1,0 +1,21 @@
+
+.ts1 {
+    display: grid;
+    
+}
+
+.row1 {
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+
+.row2 {
+    grid-template-columns: 30% 70%;
+}
+
+.navigation {
+    
+    width: 500px;
+    height: 300px;
+    background-image: url('D:\suffer2.0\img\D-_suffer2.png');
+}
